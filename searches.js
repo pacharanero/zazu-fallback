@@ -8,6 +8,7 @@ const searches = {
   maps: { name: 'Google Maps', url: 'https://www.google.com/maps?q='},
   bnf: { name: 'BNF (via MedicinesComplete)', url: 'https://www.medicinescomplete.com/mc/bnf/current/search.htm?q='},
   mdn: { name: 'Mozilla Developer Network', url: 'https://mdn.io/'},
+  nhs: { name: 'NHS Choices', url: 'http://www.nhs.uk/Search/?q='},
   npm: { name: 'NPM', url: 'https://www.npmjs.com/search?q='},
   packagist: { name: "Packagist", url: 'https://packagist.org/search/?q='},
   translate: { name: 'Google Translate', url: 'https://translate.google.com/?text='},
