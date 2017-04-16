@@ -1,9 +1,9 @@
 const searches = {
-  amazon: { name: 'Amazon', url: 'https://www.amazon.com/s?url=search-alias=aps&field-keywords='},
+  amazon: { name: 'Amazon', url: 'https://www.amazon.co.uk/s?url=search-alias=aps&field-keywords='},
   duck: { name: 'DuckDuckGo', url: 'https://duckduckgo.com/?q='},
   giphy: { name: 'Giphy', url: 'https://giphy.com/search/'},
   gh: { name: 'GitHub', url: 'https://github.com/search?utf8=%E2%9C%93&q='},
-  google: { name: 'Google', url: 'https://www.google.com/search?q='},
+  google: { name: 'Google', url: 'https://www.google.co.uk/search?q='},
   images: { name: 'Google Images', url: 'https://www.google.com/search?tbm=isch&q='},
   maps: { name: 'Google Maps', url: 'https://www.google.com/maps?q='},
   mdn: { name: 'Mozilla Developer Network', url: 'https://mdn.io/'},
