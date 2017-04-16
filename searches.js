@@ -6,7 +6,7 @@ const searches = {
   google: { name: 'Google', url: 'https://www.google.co.uk/search?q='},
   images: { name: 'Google Images', url: 'https://www.google.com/search?tbm=isch&q='},
   maps: { name: 'Google Maps', url: 'https://www.google.com/maps?q='},
-  bnf: { name: 'BNF (via MedicinesComplete)', url: 'https://www.medicinescomplete.com/mc/bnf/current/search.htm?q='}
+  bnf: { name: 'BNF (via MedicinesComplete)', url: 'https://www.medicinescomplete.com/mc/bnf/current/search.htm?q='},
   mdn: { name: 'Mozilla Developer Network', url: 'https://mdn.io/'},
   npm: { name: 'NPM', url: 'https://www.npmjs.com/search?q='},
   packagist: { name: "Packagist", url: 'https://packagist.org/search/?q='},
